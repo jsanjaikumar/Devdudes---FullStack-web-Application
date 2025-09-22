@@ -107,7 +107,7 @@ graph TB
     end
 
     subgraph "Monitoring"
-        J[Winston Logs]
+        J[PM2 Logs]
         K[PM2 Process Manager]
     end
 ```
