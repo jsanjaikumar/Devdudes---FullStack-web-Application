@@ -823,7 +823,7 @@ copies or substantial portions of the Software.
   Full-Stack Developer | MERN Specialist | Open Source Enthusiast
   
   [![GitHub](https://img.shields.io/badge/GitHub-jsanjaikumar-black?logo=github)](https://github.com/jsanjaikumar)
-  [![Email](https://img.shields.io/badge/Email-sanjai%40devdudes.tech-red?logo=gmail)](mailto:sanjai@devdudes.tech)
+  [![Email](https://img.shields.io/badge/Email-sanjai%40devdudes.tech-red?logo=gmail)](mailto:jsanjai2004@gmail.com)
 </div>
 
 ### 🎯 About the Developer
