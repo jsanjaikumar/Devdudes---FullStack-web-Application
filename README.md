@@ -10,7 +10,7 @@
   
   **Building connections through clean code and creative UI**
   
-  [Live Demo](https://devdudes.tech) • [API Documentation](Backend/apiList.md) • [Report Bug](mailto:support@devdudes.tech)
+  [Live Demo](https://www.devdudes.tech) • [API Documentation](Backend/apiList.md) • [Report Bug](mailto:support@devdudes.tech)
 </div>
 
 ---
