@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+
+@layer base {
+  html,
+  body {
+    height: 100%;
+  }
+
+  body {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    background: #030014;
+  }
+}
