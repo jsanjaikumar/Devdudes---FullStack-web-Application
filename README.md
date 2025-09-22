@@ -50,10 +50,9 @@ To bridge the gap between talented developers by creating meaningful professiona
 
 ### 🌍 Impact
 
-- **500+** Active Users
-- **1000+** Successful Connections Made
+- **50+** Active Users
+- **70+** Successful Connections Made
 - **50+** Cross-platform Collaborations
-- **Available in** 10+ Countries
 
 ---
 
